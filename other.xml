@@ -1,0 +1,81 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Chrome OSCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Hibernate</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="BackgroundImageConfiguration">
+    <option name="filename" value="http://i.imdb.com/Photos/Ss/0266543/Nemo102.jpg" />
+    <option name="localFile" value="false" />
+    <option name="enabled" value="false" />
+  </component>
+  <component name="BuiltInServerOptions" allowUnsignedRequests="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.11.3" last-modified="1528814592000" />
+    </local-interpreter>
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Branches/suc_data_exchange" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Branches" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Branches/otter_4.3.2.1067" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Trunk/Development/Source/tools/data-governance/Source/user-bind-sync" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Trunk" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_cycore4.0/Trunk/Source/platform/logs-platform-epas/separation/fe-apm-web2" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_cycore4.0/Trunk/Source/platform/logs-platform-epas/service/apm/apm-monitor-service" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_cycore4.0/Trunk/Source/platform/logs-platform-epas/service/apm/apm-web" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Trunk/Development/Source/tools/otter" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_cycore4.0/Branches" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_cycore4.0/Trunk/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Branches/suc_data_exchange" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Branches" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Branches/otter_4.4.0" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Branches/otter_4.4.0.1070" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Branches/otter_4.3.2.1067" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Trunk/Development/Source/tools/data-governance/Source/user-bind-sync" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Trunk" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_cycore4.0/Trunk/Source/platform/logs-platform-epas/separation/fe-apm-web2" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_cycore4.0/Trunk/Source/platform/logs-platform-epas/service/apm/apm-monitor-service" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_cycore4.0/Trunk/Source/platform/logs-platform-epas/service/apm/apm-web" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_EBG_PDC_UC/Trunk/Development/Source/tools/otter" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_cycore4.0/Branches" />
+        <option value="https://svn.iflytek.com:8888/svn/EPD_cycore4.0/Trunk/" />
+      </list>
+    </option>
+  </component>
+</application>
