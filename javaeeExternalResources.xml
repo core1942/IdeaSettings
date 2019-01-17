@@ -16,7 +16,24 @@
     <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/a93b54e7_spring-context.xsd" />
     <resource url="http://www.springframework.org/schema/tool/spring-tool-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/5f7618a3_spring-tool-3.2.xsd" />
     <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/946a6b65_spring-tool-4.3.xsd" />
+    <ignored-resource url="http://localhost:8080/schema/services-module-loader-adapters.xsd" />
+    <ignored-resource url="http://localhost:8080/schema/services-module-loader-factories.xsd" />
+    <ignored-resource url="http://localhost:8080/schema/services-pull-factories.xsd" />
+    <ignored-resource url="http://localhost:8080/schema/services-request-contexts-basic-interceptors.xsd" />
+    <ignored-resource url="http://localhost:8080/schema/services-request-contexts-parser-filters.xsd" />
+    <ignored-resource url="http://localhost:8080/schema/services-request-contexts.xsd" />
     <ignored-resource url="http://www.alibaba.com/schema/services/form/conditions" />
     <ignored-resource url="http://www.alibaba.com/schema/services/form/validators" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/module-loader/adapters" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/module-loader/factories" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/pull/factories" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts/basic/interceptors" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts/parser/filters" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts/session/encoders" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts/session/idgens" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts/session/interceptors" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts/session/model-encoders" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts/session/stores" />
   </component>
 </application>
