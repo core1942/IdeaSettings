@@ -35,5 +35,7 @@
     <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts/session/interceptors" />
     <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts/session/model-encoders" />
     <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts/session/stores" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/uris" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/uris/interceptors" />
   </component>
 </application>
