@@ -22,8 +22,10 @@
     <ignored-resource url="http://localhost:8080/schema/services-request-contexts-basic-interceptors.xsd" />
     <ignored-resource url="http://localhost:8080/schema/services-request-contexts-parser-filters.xsd" />
     <ignored-resource url="http://localhost:8080/schema/services-request-contexts.xsd" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/data-resolver/factories" />
     <ignored-resource url="http://www.alibaba.com/schema/services/form/conditions" />
     <ignored-resource url="http://www.alibaba.com/schema/services/form/validators" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/mapping-rules" />
     <ignored-resource url="http://www.alibaba.com/schema/services/module-loader/adapters" />
     <ignored-resource url="http://www.alibaba.com/schema/services/module-loader/factories" />
     <ignored-resource url="http://www.alibaba.com/schema/services/pull/factories" />
@@ -35,6 +37,9 @@
     <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts/session/interceptors" />
     <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts/session/model-encoders" />
     <ignored-resource url="http://www.alibaba.com/schema/services/request-contexts/session/stores" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/template/engines" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/template/engines/freemarker/plugins" />
+    <ignored-resource url="http://www.alibaba.com/schema/services/template/engines/velocity/plugins" />
     <ignored-resource url="http://www.alibaba.com/schema/services/uris" />
     <ignored-resource url="http://www.alibaba.com/schema/services/uris/interceptors" />
   </component>
