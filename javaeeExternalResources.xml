@@ -24,6 +24,7 @@
     <ignored-resource url="http://localhost:8080/schema/services-request-contexts-basic-interceptors.xsd" />
     <ignored-resource url="http://localhost:8080/schema/services-request-contexts-parser-filters.xsd" />
     <ignored-resource url="http://localhost:8080/schema/services-request-contexts.xsd" />
+    <ignored-resource url="http://shardingsphere.apache.org/schema/shardingsphere/orchestration" />
     <ignored-resource url="http://www.alibaba.com/schema/services/data-resolver/factories" />
     <ignored-resource url="http://www.alibaba.com/schema/services/form/conditions" />
     <ignored-resource url="http://www.alibaba.com/schema/services/form/validators" />
