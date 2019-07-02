@@ -1,0 +1,53 @@
+<application>
+  <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.zmcms.cn/basicservices/crm-center.git" />
+          <option name="name" value="crm-center" />
+          <option name="namespace" value="BasicServices" />
+          <option name="sshUrl" value="git@git.zmcms.cn:basicservices/crm-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.zmcms.cn/basicservices/member-apiserver.git" />
+          <option name="name" value="member-apiserver" />
+          <option name="namespace" value="BasicServices" />
+          <option name="sshUrl" value="git@git.zmcms.cn:basicservices/member-apiserver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.zmcms.cn/basicservices/crm-center.git" />
+          <option name="name" value="crm-center" />
+          <option name="namespace" value="BasicServices" />
+          <option name="sshUrl" value="git@git.zmcms.cn:basicservices/crm-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.zmcms.cn/basicservices/member-apiserver.git" />
+          <option name="name" value="member-apiserver" />
+          <option name="namespace" value="BasicServices" />
+          <option name="sshUrl" value="git@git.zmcms.cn:basicservices/member-apiserver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.zmcms.cn/basicservices/crm-center.git" />
+          <option name="name" value="crm-center" />
+          <option name="namespace" value="BasicServices" />
+          <option name="sshUrl" value="git@git.zmcms.cn:basicservices/crm-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.zmcms.cn/basicservices/member-apiserver.git" />
+          <option name="name" value="member-apiserver" />
+          <option name="namespace" value="BasicServices" />
+          <option name="sshUrl" value="git@git.zmcms.cn:basicservices/member-apiserver.git" />
+        </ProjectDto>
+      </list>
+    </option>
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="g9tr56oezYyskBv-8Uy8" />
+          <option name="apiUrl" value="https://git.zmcms.cn" />
+          <option name="repositoryUrl" value="git.zmcms.cn" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
