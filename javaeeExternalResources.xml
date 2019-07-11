@@ -13,6 +13,7 @@
     <resource url="http://shardingsphere.apache.org/schema/shardingsphere/sharding/sharding.xsd" location="$USER_HOME$/.IntelliJIdea2019.1/system/extResources/3f9c349a_sharding.xsd" />
     <resource url="http://www.springframework.org/schema/aop/spring-aop-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/da247ef1_spring-aop-3.2.xsd" />
     <resource url="http://www.springframework.org/schema/aop/spring-aop.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/7ab94007_spring-aop.xsd" />
+    <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/.IntelliJIdea2019.1/system/extResources/334543e7_spring-beans.xsd" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/a34b92d1_spring-beans-3.2.xsd" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/d83fe593_spring-beans-4.3.xsd" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/.IntelliJIdea2019.1/system/extResources/334543e7_spring-beans.xsd" />
