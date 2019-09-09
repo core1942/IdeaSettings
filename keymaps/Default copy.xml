@@ -153,7 +153,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
   <action id="OverrideMethods">
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
+    <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
