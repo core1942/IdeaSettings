@@ -782,6 +782,42 @@
           <option name="namespace" value="BasicServices" />
           <option name="sshUrl" value="git@git.zmcms.cn:basicservices/springboot-parent.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.zmcms.cn/basicservices/coupon-center.git" />
+          <option name="name" value="coupon-center" />
+          <option name="namespace" value="BasicServices" />
+          <option name="sshUrl" value="git@git.zmcms.cn:basicservices/coupon-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.zmcms.cn/basicservices/crm-center.git" />
+          <option name="name" value="crm-center" />
+          <option name="namespace" value="BasicServices" />
+          <option name="sshUrl" value="git@git.zmcms.cn:basicservices/crm-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.zmcms.cn/basicservices/crm-data-syn.git" />
+          <option name="name" value="crm-data-syn" />
+          <option name="namespace" value="BasicServices" />
+          <option name="sshUrl" value="git@git.zmcms.cn:basicservices/crm-data-syn.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.zmcms.cn/basicservices/eventcenter.git" />
+          <option name="name" value="EventCenter" />
+          <option name="namespace" value="BasicServices" />
+          <option name="sshUrl" value="git@git.zmcms.cn:basicservices/eventcenter.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.zmcms.cn/basicservices/order-center.git" />
+          <option name="name" value="order-center" />
+          <option name="namespace" value="BasicServices" />
+          <option name="sshUrl" value="git@git.zmcms.cn:basicservices/order-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.zmcms.cn/basicservices/springboot-parent.git" />
+          <option name="name" value="springboot-parent" />
+          <option name="namespace" value="BasicServices" />
+          <option name="sshUrl" value="git@git.zmcms.cn:basicservices/springboot-parent.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
