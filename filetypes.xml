@@ -1,18 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.iml;*.ipr;*.iws;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.hprof;*.iml;*.ipr;*.iws;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.gitignore;.hg;.idea;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="非对称加密生成格式" type="PLAIN_TEXT" />
-      <mapping pattern="sd" type="PLAIN_TEXT" />
       <mapping pattern="解析" type="PLAIN_TEXT" />
       <mapping pattern="Demo" type="PLAIN_TEXT" />
+      <mapping pattern="sd" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
-      <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="prop" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
