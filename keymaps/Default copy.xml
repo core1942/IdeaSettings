@@ -36,9 +36,6 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
-  <action id="Compare.LastVersion">
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
-  </action>
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
@@ -72,6 +69,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
   <action id="Git.Stash">
     <keyboard-shortcut first-keystroke="ctrl m" />
