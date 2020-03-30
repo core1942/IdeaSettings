@@ -4,5 +4,13 @@
       <display-name>filters</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("filters")).withNamespace(string().equalTo("http://maven.apache.org/POM/4.0.0"))]]></place>
     </injection>
+    <injection language="MySQL" injector-id="xml">
+      <display-name>insert</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("insert")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="xml">
+      <display-name>select</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("select")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
   </component>
 </application>
