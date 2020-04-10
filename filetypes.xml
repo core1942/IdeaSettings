@@ -8,15 +8,17 @@
       <removed_mapping ext="gitignore" approved="true" type="GitIgnore file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="非对称加密生成格式" type="PLAIN_TEXT" />
       <mapping pattern="sd" type="PLAIN_TEXT" />
-      <mapping pattern="解析" type="PLAIN_TEXT" />
+      <mapping pattern="非对称加密生成格式" type="PLAIN_TEXT" />
       <mapping pattern="Demo" type="PLAIN_TEXT" />
+      <mapping pattern="解析" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="prop" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Cookie" approved="true" type="Cookie storage file" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="gitignore" approved="true" type="GitIgnore file" />
