@@ -8,7 +8,7 @@
     <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/48b8f268_assembly-1.1.2.xsd" />
     <resource url="http://maven.apache.org/xsd/archetype-descriptor-1.0.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/a8440932_archetype-descriptor-1.0.0.xsd" />
     <resource url="http://maven.apache.org/xsd/assembly-1.1.2.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/48b8f268_assembly-1.1.2.xsd" />
-    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
     <resource url="http://shardingsphere.apache.org/schema/shardingsphere/sharding" location="$USER_HOME$/.IntelliJIdea2019.1/system/extResources/3f9c349a_sharding.xsd" />
     <resource url="http://shardingsphere.apache.org/schema/shardingsphere/sharding/sharding.xsd" location="$USER_HOME$/.IntelliJIdea2019.1/system/extResources/3f9c349a_sharding.xsd" />
     <resource url="http://www.springframework.org/schema/aop/spring-aop-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/da247ef1_spring-aop-3.2.xsd" />
