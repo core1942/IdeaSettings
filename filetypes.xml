@@ -12,6 +12,8 @@
       <mapping pattern="解析" type="PLAIN_TEXT" />
       <mapping pattern="非对称加密生成格式" type="PLAIN_TEXT" />
       <mapping pattern="Demo" type="PLAIN_TEXT" />
+      <mapping pattern="" type="PLAIN_TEXT" />
+      <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="prop" type="PLAIN_TEXT" />
