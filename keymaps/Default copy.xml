@@ -205,6 +205,10 @@
   <action id="ShowUmlDiagramPopup">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="ctrl alt f7" />
+    <mouse-shortcut keystroke="control button3" />
+  </action>
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="shift f8" />
     <keyboard-shortcut first-keystroke="shift f7" />
@@ -252,10 +256,6 @@
   <action id="ToggleBookmark9">
     <keyboard-shortcut first-keystroke="shift ctrl 9" />
     <keyboard-shortcut first-keystroke="alt numpad9" />
-  </action>
-  <action id="TypeHierarchy">
-    <keyboard-shortcut first-keystroke="ctrl h" />
-    <mouse-shortcut keystroke="control button3" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Push">
