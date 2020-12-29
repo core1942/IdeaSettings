@@ -23,7 +23,7 @@
   </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
-    <mouse-shortcut keystroke="control alt button3" />
+    <mouse-shortcut keystroke="control alt button2" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject" />
@@ -133,7 +133,6 @@
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="control alt button1" />
     <keyboard-shortcut first-keystroke="ctrl alt b" />
-    <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
@@ -154,7 +153,7 @@
   </action>
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
-    <mouse-shortcut keystroke="shift control button3" />
+    <mouse-shortcut keystroke="shift control button2" />
   </action>
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="alt o" />
@@ -256,6 +255,10 @@
   <action id="ToggleBookmark9">
     <keyboard-shortcut first-keystroke="shift ctrl 9" />
     <keyboard-shortcut first-keystroke="alt numpad9" />
+  </action>
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Push">
