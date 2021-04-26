@@ -22,6 +22,7 @@
     <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/a93b54e7_spring-context.xsd" />
     <resource url="http://www.springframework.org/schema/tool/spring-tool-3.2.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/5f7618a3_spring-tool-3.2.xsd" />
     <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/946a6b65_spring-tool-4.3.xsd" />
+    <resource url="https://maven.apache.org/xsd/maven-4.0.0.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/a3e953d2_maven-4.0.0.xsd" />
     <ignored-resource url="http://localhost:8080/schema/services-module-loader-adapters.xsd" />
     <ignored-resource url="http://localhost:8080/schema/services-module-loader-factories.xsd" />
     <ignored-resource url="http://localhost:8080/schema/services-pull-factories.xsd" />
