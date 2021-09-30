@@ -1,10 +1,14 @@
 <application>
-  <component name="ToStringTemplates" defaultTemplateName="Jackson#toString">
+  <component name="ToStringTemplates" defaultTemplateName="JSON#toString">
     <option name="templates">
       <list>
         <TemplateResource>
           <option name="fileName" value="Jackson#toString" />
           <option name="template" value="public java.lang.String toString() {&#10;    return Jackson.toJsonString(this);&#10;}" />
+        </TemplateResource>
+        <TemplateResource>
+          <option name="fileName" value="JSON#toString" />
+          <option name="template" value="public java.lang.String toString() {&#10;return JSON.toJSONString(this);&#10;}" />
         </TemplateResource>
       </list>
     </option>
