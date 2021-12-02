@@ -110,9 +110,13 @@
           <option name="url" value="https://git.zmcms.cn/basicservices/marketing-center.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/songtao1048/anubis-openapi-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\IdeaProjects\qmai" />
+    <option name="cloneParentDir" value="D:\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
