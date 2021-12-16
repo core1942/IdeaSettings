@@ -24,7 +24,7 @@
         <option value="JAVA.RelatedProblems" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="RelatedProblems" />
+    <option name="lastViewedProviderKeyId" value="docker.inlay.hints" />
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
