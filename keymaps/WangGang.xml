@@ -25,6 +25,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt h" />
     <mouse-shortcut keystroke="control alt button2" />
   </action>
+  <action id="ChangesView.Shelve">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinProject" />
   <action id="CloseContent">
@@ -72,12 +75,6 @@
   </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
-  </action>
-  <action id="Git.Stash">
-    <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
-  <action id="Git.Unstash">
-    <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
   <action id="GotoBookmark0">
     <keyboard-shortcut first-keystroke="ctrl 0" />
@@ -194,6 +191,9 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="ScrollTreeToCenter" />
+  <action id="ShelveChanges.UnshelveWithDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <mouse-shortcut keystroke="alt button1" />
