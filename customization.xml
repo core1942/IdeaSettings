@@ -37,6 +37,13 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="CompileFile" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Toolbar Make Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -54,5 +61,6 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <action id="CompileFile" icon="$USER_HOME$/Desktop/图标/编辑.svg" />
   </component>
 </application>
