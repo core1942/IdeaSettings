@@ -61,6 +61,6 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="CompileFile" icon="$USER_HOME$/Desktop/图标/编辑.svg" />
+    <action id="CompileFile" icon="$USER_HOME$/Desktop/图标/编辑3.svg" />
   </component>
 </application>
