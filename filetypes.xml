@@ -16,6 +16,7 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="非对称加密生成格式" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
+      <mapping ext="norc" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
