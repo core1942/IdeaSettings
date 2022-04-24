@@ -1,0 +1,282 @@
+<keymap version="1" name="WangGang" parent="$default">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+  </action>
+  <action id="ActivateHierarchyToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <mouse-shortcut keystroke="control alt button2" />
+  </action>
+  <action id="ChangesView.Shelve">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="CheckinProject" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="Console.Open" />
+  <action id="Console.TableResult.SetNull" />
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="EditorMatchBrace" />
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="EditorSplitLine">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorUnSelectWord" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="GotoBookmark0">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
+  <action id="GotoBookmark1">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+  <action id="GotoBookmark2">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
+  <action id="GotoBookmark3">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+    <keyboard-shortcut first-keystroke="ctrl numpad3" />
+  </action>
+  <action id="GotoBookmark4">
+    <keyboard-shortcut first-keystroke="ctrl 4" />
+    <keyboard-shortcut first-keystroke="ctrl numpad4" />
+  </action>
+  <action id="GotoBookmark5">
+    <keyboard-shortcut first-keystroke="ctrl 5" />
+    <keyboard-shortcut first-keystroke="ctrl numpad5" />
+  </action>
+  <action id="GotoBookmark6">
+    <keyboard-shortcut first-keystroke="ctrl 6" />
+    <keyboard-shortcut first-keystroke="ctrl numpad6" />
+  </action>
+  <action id="GotoBookmark7">
+    <keyboard-shortcut first-keystroke="ctrl 7" />
+    <keyboard-shortcut first-keystroke="ctrl numpad7" />
+  </action>
+  <action id="GotoBookmark8">
+    <keyboard-shortcut first-keystroke="ctrl 8" />
+    <keyboard-shortcut first-keystroke="ctrl numpad8" />
+  </action>
+  <action id="GotoBookmark9">
+    <keyboard-shortcut first-keystroke="ctrl 9" />
+    <keyboard-shortcut first-keystroke="ctrl numpad9" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="shift control button1" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
+  <action id="GotoTest" />
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="Images.ShowThumbnails" />
+  <action id="Inline" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="Jdbc.RunSqlScript">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+  </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+    <mouse-shortcut keystroke="shift control button2" />
+  </action>
+  <action id="Move" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
+    <mouse-shortcut keystroke="alt button1" />
+    <mouse-shortcut keystroke="alt button3" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="RunDashboard.Run">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="RunTargetAction" />
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="alt f9" />
+    <keyboard-shortcut first-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="ScrollTreeToCenter" />
+  <action id="ShelveChanges.UnshelveWithDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="ShowUmlDiagram">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
+  <action id="ShowUmlDiagramPopup">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="ctrl alt f7" />
+    <mouse-shortcut keystroke="control button3" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="shift f7" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="ToggleBookmark0">
+    <keyboard-shortcut first-keystroke="shift ctrl 0" />
+    <keyboard-shortcut first-keystroke="alt numpad0" />
+  </action>
+  <action id="ToggleBookmark1">
+    <keyboard-shortcut first-keystroke="shift ctrl 1" />
+    <keyboard-shortcut first-keystroke="alt numpad1" />
+  </action>
+  <action id="ToggleBookmark2">
+    <keyboard-shortcut first-keystroke="shift ctrl 2" />
+    <keyboard-shortcut first-keystroke="alt numpad2" />
+  </action>
+  <action id="ToggleBookmark3">
+    <keyboard-shortcut first-keystroke="shift ctrl 3" />
+    <keyboard-shortcut first-keystroke="alt numpad3" />
+  </action>
+  <action id="ToggleBookmark4">
+    <keyboard-shortcut first-keystroke="shift ctrl 4" />
+    <keyboard-shortcut first-keystroke="alt numpad4" />
+  </action>
+  <action id="ToggleBookmark5">
+    <keyboard-shortcut first-keystroke="shift ctrl 5" />
+    <keyboard-shortcut first-keystroke="alt numpad5" />
+  </action>
+  <action id="ToggleBookmark6">
+    <keyboard-shortcut first-keystroke="shift ctrl 6" />
+    <keyboard-shortcut first-keystroke="alt numpad6" />
+  </action>
+  <action id="ToggleBookmark7">
+    <keyboard-shortcut first-keystroke="shift ctrl 7" />
+    <keyboard-shortcut first-keystroke="alt numpad7" />
+  </action>
+  <action id="ToggleBookmark8">
+    <keyboard-shortcut first-keystroke="shift ctrl 8" />
+    <keyboard-shortcut first-keystroke="alt numpad8" />
+  </action>
+  <action id="ToggleBookmark9">
+    <keyboard-shortcut first-keystroke="shift ctrl 9" />
+    <keyboard-shortcut first-keystroke="alt numpad9" />
+  </action>
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>
