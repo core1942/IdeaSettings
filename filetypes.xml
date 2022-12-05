@@ -5,8 +5,8 @@
       <mapping pattern="jnanorc" type="AUTO_DETECTED" />
       <mapping ext="cookie" type="Cookie storage file" />
       <mapping ext="cookies" type="GitIgnore file" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="" type="PLAIN_TEXT" />
       <mapping pattern="解析" type="PLAIN_TEXT" />
@@ -15,14 +15,14 @@
       <mapping pattern="sd" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="非对称加密生成格式" type="PLAIN_TEXT" />
-      <mapping ext="file" type="PLAIN_TEXT" />
-      <mapping ext="norc" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="me" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="nanorc" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="prop" type="PLAIN_TEXT" />
+      <mapping ext="norc" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
       <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping pattern="*" approved="true" type="Cookie storage file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
