@@ -25,6 +25,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt h" />
     <mouse-shortcut keystroke="control alt button2" />
   </action>
+  <action id="ChangeSignature">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="ChangesView.Shelve">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
