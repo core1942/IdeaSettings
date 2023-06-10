@@ -1,0 +1,7 @@
+<templateSet group="Kotlin">
+  <template name="pl" value="println($END$)" description="println()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

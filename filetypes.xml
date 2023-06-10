@@ -1,0 +1,41 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.iml;*.ipr;*.iws;*.log;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.mvn;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="jnanorc" type="AUTO_DETECTED" />
+      <mapping ext="cookie" type="Cookie storage file" />
+      <mapping ext="cookies" type="GitIgnore file" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="" type="PLAIN_TEXT" />
+      <mapping pattern="解析" type="PLAIN_TEXT" />
+      <mapping pattern="Demo" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="sd" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="非对称加密生成格式" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="lombok" type="PLAIN_TEXT" />
+      <mapping ext="nanorc" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
+      <mapping ext="prop" type="PLAIN_TEXT" />
+      <mapping ext="norc" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping pattern=".analysis_options" type="YAML" />
+      <removed_mapping pattern="*" approved="true" type="Cookie storage file" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="gitignore" approved="true" type="GitIgnore file" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".cookie" approved="true" type="Cookie storage file" />
+      <removed_mapping pattern="Cookie" approved="true" type="Cookie storage file" />
+      <removed_mapping pattern="http-client.cookies" approved="true" type="Cookie storage file" />
+    </extensionMap>
+  </component>
+</application>
