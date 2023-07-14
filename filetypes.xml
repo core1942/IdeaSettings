@@ -5,9 +5,6 @@
       <mapping pattern="jnanorc" type="AUTO_DETECTED" />
       <mapping ext="cookie" type="Cookie storage file" />
       <mapping ext="cookies" type="GitIgnore file" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="" type="PLAIN_TEXT" />
       <mapping pattern="解析" type="PLAIN_TEXT" />
       <mapping pattern="Demo" type="PLAIN_TEXT" />
@@ -36,6 +33,9 @@
       <removed_mapping pattern=".cookie" approved="true" type="Cookie storage file" />
       <removed_mapping pattern="Cookie" approved="true" type="Cookie storage file" />
       <removed_mapping pattern="http-client.cookies" approved="true" type="Cookie storage file" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
