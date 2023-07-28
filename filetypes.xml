@@ -31,6 +31,7 @@
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="gitignore" approved="true" type="GitIgnore file" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".cookie" approved="true" type="Cookie storage file" />
