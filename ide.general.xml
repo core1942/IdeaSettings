@@ -9,4 +9,11 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="AIAssistant" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
