@@ -68,9 +68,7 @@
   <action id="EditorSplitLine">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
-  <action id="EditorStartNewLine">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
+  <action id="EditorStartNewLine" />
   <action id="EditorUnSelectWord" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
@@ -285,5 +283,8 @@
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="copilot.openCopilot">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
 </keymap>
