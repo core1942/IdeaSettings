@@ -1,0 +1,6 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="jdkHome" value="C:/Program Files/Java/jdk-1.8" />
+    <option name="visualVmExecutable" value="D:/IdeaProjects/dinner-apiserver/dinner-native-service/src/main/java/com/zm/natives/NativeStartup.java" />
+  </component>
+</application>
