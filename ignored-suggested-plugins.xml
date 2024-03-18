@@ -5,6 +5,7 @@
         <option value="com.intellij.bigdatatools" />
         <option value="com.haulmont.jpab" />
         <option value="com.intellij.dubbo" />
+        <option value="com.jetbrains.plugins.jade" />
       </list>
     </option>
   </component>
