@@ -8,6 +8,7 @@
         <option value="Default.Date" />
         <option value="Space.CommitStatus" />
         <option value="Default.Hash" />
+        <option value="GitHub.CommitStatus" />
       </list>
     </option>
     <option name="COLUMN_ID_VISIBILITY">
