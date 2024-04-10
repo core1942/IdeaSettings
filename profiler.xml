@@ -11,6 +11,11 @@
         <option name="icicleGraph" value="true" />
       </flame-graph-ui>
     </option>
+    <option name="processOptions">
+      <process-tab>
+        <option name="highlightIdeProcesses" value="true" />
+      </process-tab>
+    </option>
     <option name="threadListOptions">
       <thread-list>
         <option name="showMetrics">
