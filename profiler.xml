@@ -13,6 +13,7 @@
     </option>
     <option name="processOptions">
       <process-tab>
+        <option name="filterDevelopmentTools" value="false" />
         <option name="highlightIdeProcesses" value="true" />
       </process-tab>
     </option>
