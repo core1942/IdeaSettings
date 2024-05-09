@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\mealmate-web\src\main\java\com\zm\mealmate\request\client\product\ProductOrderConfirmRequest.java [mealmate-web]'" />
-    <option name="defaultScopeName" value="File '…\mealmate-web\src\main\java\com\zm\mealmate\request\client\product\ProductOrderConfirmRequest.java [mealmate-web]'" />
-    <option name="SEARCH_SCOPE" value="File '…\mealmate-web\src\main\java\com\zm\mealmate\request\client\product\ProductOrderConfirmRequest.java [mealmate-web]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
