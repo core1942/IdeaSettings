@@ -76,6 +76,7 @@
     <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SHOW_STICKY_LINES" value="false" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
