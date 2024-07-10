@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="19">
     <ignoreFiles list="*.iml;*.ipr;*.iws;*.log;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.mvn;.mypy_cache;.pytest_cache;.ruff_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern="rz" type="AUTO_DETECTED" />
       <mapping pattern="jnanorc" type="AUTO_DETECTED" />
       <mapping ext="cookie" type="Cookie storage file" />
       <mapping ext="cookies" type="GitIgnore file" />
